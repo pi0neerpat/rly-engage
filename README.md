@@ -3,4 +3,4 @@
 
 Our proposal is an integration of RLY to make it easier for creators to seamlessly get their social coin into the hands of fans. 
 
-## View the document here: https://docs.google.com/document/d/1BfNkfQxLPofFjc68EhtyRQjn2Jq8CuwWPLxTn7AtPAA
+## View the document here: https://docs.google.com/document/d/1BfNkfQxLPofFjc68EhtyRQjn2Jq8CuwWPLxTn7AtPAA/edit?usp=sharing
